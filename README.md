@@ -43,6 +43,8 @@ EverBuy is a static E-commerce frontend web application that simulates an online
 
 This project is designed to demonstrate responsive layout skills, modern UI design, and basic interactivity without backend support.
 
+--- 
+
 💡 Features
 
 ✔ Header with branding and navigation

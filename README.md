@@ -1,9 +1,4 @@
-# E-commerce-project
-** Live Demo:** https://mohdali644.github.io/E-commerce-/
-This is my first GitHub repo, created to host and manage the codebase for an E-commerce website project. It showcases frontend development using HTML, CSS, and JavaScript, with a focus on responsive design, user-friendly UI and modular code.
-
-
-🛍️ EverBuy – E-Commerce Web Application
+# EverBuy – E-Commerce Web Application
 
 A fully responsive E-commerce frontend website inspired by Amazon, built using HTML5, CSS3, and JavaScript. Users can browse product categories, view items, and interact with core e-commerce UI elements.
 
@@ -11,31 +6,7 @@ A fully responsive E-commerce frontend website inspired by Amazon, built using H
 
 🔗 Live Preview: https://mohdali644.github.io/E-commerce/
 
-📌 Table of Contents
-
-📖 About the Project
-
-💡 Features
-
-🛠️ Built With
-
-📸 Screenshots
-
-🚀 Getting Started
-
-🔧 Installation
-
-▶️ Usage
-
-🗂️ Folder Structure
-
-📈 Future Improvements
-
-🤝 Contributing
-
-📄 License
-
-👤 Contact
+---
 
 📖 About the Project
 
@@ -57,15 +28,16 @@ This project is designed to demonstrate responsive layout skills, modern UI desi
 
 ⚡ Note: If you have implemented cart functionality, localStorage, search, product details, etc., add those features here.
 
+---
+
 🛠️ Built With
 Technology	Purpose
 HTML5	Project structure & semantic markup
 CSS3	Styling, responsive layout, animation
 JavaScript	UI interactions and cart logic
 Git & GitHub	Version control & hosting
-📸 Screenshots
 
-(Add real screenshots of your project in these blocks)
+---
 
 🏠 Homepage
 
@@ -73,25 +45,29 @@ Git & GitHub	Version control & hosting
 
 Replace image paths with your actual screenshot filenames.
 
+---
+
 🚀 Getting Started
 
 Follow these steps to run this project locally:
 
 🔧 Installation
 
-Clone the repository
+1. Clone the repository
 
 git clone https://mohdali644.github.io/E-commerce/
 
-Change directory
+2. Change directory
 
 cd E-commerce
 
-Open in Browser
+3. Open in Browser
 
 Double-click index.html
 
 OR serve with Live Server on VS Code for a better development workflow.
+
+---
 
 ▶️ Usage
 
@@ -102,6 +78,8 @@ Click “See More” to explore products
 Interact with header navigation
 
 Add to cart & cart interactions (if implemented)
+
+---
 
 🗂️ Folder Structure
 E-commerce/
@@ -116,6 +94,8 @@ E-commerce/
 
 Adjust based on your actual project structure.
 
+---
+
 📈 Future Improvements
 
 Here are some enhancements you can consider:
@@ -126,6 +106,8 @@ Here are some enhancements you can consider:
 ✔ Add search feature and filters
 ✔ Integrate backend (Node.js, Firebase, etc.)
 ✔ Implement responsive grid and animations
+
+---
 
 🤝 Contributing
 
@@ -142,9 +124,13 @@ To contribute:
 
 5. Open a Pull Request
 
+---
+
 📄 License
 
 This project is open-source under the MIT License. See the LICENSE file for details.
+
+---
 
 👤 Contact
 
